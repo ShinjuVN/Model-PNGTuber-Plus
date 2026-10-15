@@ -1,81 +1,106 @@
-# GIẤY PHÉP SỬ DỤNG MODEL PNGTUBER CÁ NHÂN
+GIẤY PHÉP SỬ DỤNG MODEL PNGTUBER CÁ NHÂN
+(Custom Model License - All Rights Reserved)
 
-**Bản quyền © [NĂM] [TÊN/BIỆT DANH CỦA BẠN]. Bảo lưu mọi quyền.**
+Bản quyền (c) 2026 Shinju Ch. [VNer] Bảo lưu mọi quyền.
 
-Giấy phép này áp dụng cho toàn bộ model PNGTuber (sau đây gọi là **"Model"**), bao gồm:
-- Toàn bộ file hình ảnh (PNG) trong thư mục `Layer Model/` và các thư mục con;
-- File dự án/rig (`.save` và các file cấu hình liên quan);
-- Tài liệu đi kèm (README và các file hướng dẫn).
+Giấy phép này áp dụng cho toàn bộ nội dung của repository này (sau đây gọi là
+"Model"), bao gồm:
+  - Toàn bộ file hình ảnh (PNG) trong thư mục "Layer Model/" và các thư mục con;
+  - File dự án/rig (.save và các file cấu hình liên quan);
+  - Tài liệu đi kèm (README và các file hướng dẫn).
 
-| Thông tin | Nội dung |
-|-----------|----------|
-| Chủ sở hữu Model | [TÊN/BIỆT DANH CỦA BẠN] |
-| Họa sĩ/Người thiết kế gốc | [TÊN HỌA SĨ – xóa dòng này nếu bạn tự vẽ] |
-| Liên hệ | [EMAIL / TWITTER-X / DISCORD / LINK KÊNH] |
-| Phiên bản giấy phép | 1.0 – [NGÀY/THÁNG/NĂM] |
+Chủ sở hữu Model : Shinju Ch.
+Liên hệ          : [YT] @ShijuVNer
+Phiên bản        : 1.0 - [15/10/2026]
 
----
+------------------------------------------------------------------------
+1. QUYỀN SỞ HỮU
+------------------------------------------------------------------------
+Model và mọi quyền sở hữu trí tuệ liên quan thuộc về Chủ sở hữu nêu trên.
+Việc tải về, fork, sao chép hoặc nhận được file Model KHÔNG chuyển giao
+quyền sở hữu cho bất kỳ ai khác.
 
-## 1. Quyền sở hữu
+Theo Điều khoản Dịch vụ của GitHub, khi repository ở chế độ công khai, người
+dùng GitHub được phép xem và fork repository trong phạm vi nền tảng GitHub.
+Ngoài phạm vi đó, mọi quyền sử dụng chỉ được cấp theo giấy phép này.
 
-Model và mọi quyền sở hữu trí tuệ liên quan thuộc về Chủ sở hữu nêu trên. Việc tải về, sao chép hoặc nhận được file Model **không** chuyển giao quyền sở hữu cho bất kỳ ai khác.
+------------------------------------------------------------------------
+2. ĐƯỢC PHÉP (KHÔNG CẦN XIN PHÉP)
+------------------------------------------------------------------------
+Bất kỳ ai cũng được:
+  1. Xem, tải về và sử dụng Model cho mục đích cá nhân, phi thương mại.
+  2. Tạo fan art về nhân vật (không phải chỉnh sửa trực tiếp file Model),
+     có ghi nguồn.
+  3. Chụp ảnh màn hình, quay clip, cắt ghép (clip/short/meme/thumbnail) có
+     sử dụng hình ảnh nhân vật, kèm ghi nguồn.
+  4. Chia sẻ link dẫn về repository gốc.
 
-## 2. Được phép (không cần xin phép)
+------------------------------------------------------------------------
+3. CẦN XIN PHÉP TRƯỚC BẰNG VĂN BẢN
+------------------------------------------------------------------------
+Phải liên hệ Chủ sở hữu và được đồng ý rõ ràng trước khi:
+  1. Chỉnh sửa, thay đổi hoặc tạo bản phái sinh từ file gốc của Model (đổi
+     màu, đổi trang phục, thêm/bớt layer, đổi rig...).
+  2. Sử dụng Model vào mục đích thương mại, bao gồm nhưng không giới hạn: bán
+     sản phẩm, merchandise, quảng cáo, tài trợ, dự án có thu phí.
+  3. Sử dụng Model trong game, ứng dụng, phim, hoạt hình hoặc dự án công khai
+     khác của bên thứ ba.
+  4. Cho người khác mượn/dùng Model để stream hoặc đóng vai nhân vật thay mình.
 
-Bất kỳ ai cũng **được**:
-1. Xem, tải về và sử dụng Model cho mục đích cá nhân, phi thương mại.
-2. Tạo **fan art** về nhân vật (không phải chỉnh sửa trực tiếp file Model), có ghi nguồn.
-3. Chụp ảnh màn hình, quay clip, cắt ghép (clip/short/meme/thumbnail) có sử dụng hình ảnh nhân vật, kèm ghi nguồn.
-4. Chia sẻ link dẫn về trang gốc của Model.
+------------------------------------------------------------------------
+4. NGHIÊM CẤM
+------------------------------------------------------------------------
+Tuyệt đối không được:
+  1. Phân phối lại file Model (miễn phí hay có phí), kể cả bản đã chỉnh sửa,
+     dưới bất kỳ hình thức nào (bao gồm tải lên repository/kho lưu trữ khác).
+  2. Bán, cho thuê, đem đấu giá hoặc trao đổi Model.
+  3. Nhận Model là do mình tạo ra/sở hữu, hoặc xóa/che chữ ký, watermark,
+     thông tin tác giả.
+  4. Dùng Model để huấn luyện AI (generative AI, LoRA, fine-tune, dataset,
+     voice/hình ảnh...) hoặc nhập Model vào công cụ AI nhằm sao chép phong
+     cách/nhân vật.
+  5. Sử dụng Model cho NFT, tiền mã hóa, blockchain.
+  6. Sử dụng Model trong nội dung:
+       - khiêu dâm, bạo lực cực đoan, gore, tự hại;
+       - phân biệt chủng tộc, kỳ thị, thù ghét, quấy rối;
+       - lừa đảo, cờ bạc, hoặc vi phạm pháp luật;
+       - chính trị cực đoan hoặc xuyên tạc, bôi nhọ cá nhân/tổ chức;
+       - có thể gây hiểu nhầm rằng Chủ sở hữu ủng hộ hay liên quan đến nội
+         dung đó.
+  7. Sử dụng Model để mạo danh Chủ sở hữu hoặc đánh lừa người khác.
 
-## 3. Cần xin phép trước bằng văn bản
-
-Phải liên hệ Chủ sở hữu và được **đồng ý rõ ràng** trước khi:
-1. Chỉnh sửa, thay đổi hoặc tạo bản phái sinh từ file gốc của Model (đổi màu, đổi trang phục, thêm/bớt layer, đổi rig...).
-2. Sử dụng Model vào **mục đích thương mại**, bao gồm nhưng không giới hạn: bán sản phẩm, merchandise, quảng cáo, tài trợ, dự án có thu phí.
-3. Sử dụng Model trong game, ứng dụng, phim, hoạt hình hoặc dự án công khai khác của bên thứ ba.
-4. Cho người khác mượn/dùng Model để stream hoặc đóng vai nhân vật thay mình.
-
-## 4. Nghiêm cấm
-
-Tuyệt đối **không được**:
-1. **Phân phối lại** file Model (miễn phí hay có phí), kể cả bản đã chỉnh sửa, dưới bất kỳ hình thức nào.
-2. **Bán, cho thuê, đem đấu giá** hoặc trao đổi Model.
-3. Nhận Model là **do mình tạo ra/sở hữu**, hoặc xóa/che chữ ký, watermark, thông tin tác giả.
-4. Dùng Model để **huấn luyện AI** (generative AI, LoRA, fine-tune, dataset, voice/hình ảnh...) hoặc nhập Model vào công cụ AI nhằm sao chép phong cách/nhân vật.
-5. Sử dụng Model cho **NFT, tiền mã hóa, blockchain**.
-6. Sử dụng Model trong nội dung:
-   - khiêu dâm, bạo lực cực đoan, gore, tự hại;
-   - phân biệt chủng tộc, kỳ thị, thù ghét, quấy rối;
-   - lừa đảo, cờ bạc, hoặc vi phạm pháp luật;
-   - chính trị cực đoan hoặc xuyên tạc, bôi nhọ cá nhân/tổ chức;
-   - có thể gây hiểu nhầm rằng Chủ sở hữu ủng hộ hay liên quan đến nội dung đó.
-7. Sử dụng Model để **mạo danh** Chủ sở hữu hoặc đánh lừa người khác.
-
-## 5. Ghi nguồn (Credit)
-
+------------------------------------------------------------------------
+5. GHI NGUỒN (CREDIT)
+------------------------------------------------------------------------
 Khi đăng tải nội dung có sử dụng nhân vật/hình ảnh từ Model, vui lòng ghi:
 
-```
-Model: [TÊN/BIỆT DANH CỦA BẠN] ([LINK TRANG CÁ NHÂN/KÊNH])
-```
+    Model: [TÊN/BIỆT DANH CỦA BẠN] ([LINK TRANG CÁ NHÂN/KÊNH])
 
-## 6. Chấm dứt quyền sử dụng
+------------------------------------------------------------------------
+6. CHẤM DỨT QUYỀN SỬ DỤNG
+------------------------------------------------------------------------
+Chủ sở hữu có quyền thu hồi giấy phép và yêu cầu gỡ nội dung bất cứ lúc nào
+nếu phát hiện vi phạm Điều 3 hoặc Điều 4. Khi đó, bên vi phạm phải ngừng sử
+dụng, xóa mọi bản sao Model và gỡ nội dung liên quan trong thời gian hợp lý.
 
-Chủ sở hữu có quyền **thu hồi giấy phép** và yêu cầu gỡ nội dung bất cứ lúc nào nếu phát hiện vi phạm Điều 3 hoặc Điều 4. Khi đó, bên vi phạm phải ngừng sử dụng, xóa mọi bản sao Model và gỡ nội dung liên quan trong thời gian hợp lý.
+------------------------------------------------------------------------
+7. TỪ CHỐI BẢO ĐẢM
+------------------------------------------------------------------------
+Model được cung cấp "NGUYÊN TRẠNG" (AS IS), không kèm bất kỳ bảo đảm nào về
+tính phù hợp hay không có lỗi. Chủ sở hữu không chịu trách nhiệm đối với
+thiệt hại phát sinh từ việc sử dụng Model.
 
-## 7. Từ chối bảo đảm
+------------------------------------------------------------------------
+8. THAY ĐỔI GIẤY PHÉP
+------------------------------------------------------------------------
+Chủ sở hữu có quyền cập nhật giấy phép này. Phiên bản mới áp dụng cho các lần
+sử dụng kể từ ngày công bố.
 
-Model được cung cấp **"nguyên trạng"** (as is), không kèm bất kỳ bảo đảm nào về tính phù hợp hay không có lỗi. Chủ sở hữu không chịu trách nhiệm đối với thiệt hại phát sinh từ việc sử dụng Model.
+------------------------------------------------------------------------
+9. LIÊN HỆ
+------------------------------------------------------------------------
+Mọi yêu cầu xin phép, báo cáo vi phạm hoặc câu hỏi vui lòng liên hệ:
+https://shinjuvn.github.io/channel
 
-## 8. Thay đổi giấy phép
-
-Chủ sở hữu có quyền cập nhật giấy phép này. Phiên bản mới áp dụng cho các lần sử dụng kể từ ngày công bố; phiên bản được dùng là phiên bản có hiệu lực tại thời điểm bạn nhận Model.
-
-## 9. Liên hệ
-
-Mọi yêu cầu xin phép, báo cáo vi phạm hoặc câu hỏi vui lòng liên hệ: **[EMAIL / TWITTER-X / DISCORD]**
-
----
-
-*Bằng việc tải về hoặc sử dụng Model, bạn xác nhận đã đọc, hiểu và đồng ý tuân theo các điều khoản trên.*
+Bằng việc tải về hoặc sử dụng Model, bạn xác nhận đã đọc, hiểu và đồng ý tuân
+theo các điều khoản trên.
