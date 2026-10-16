@@ -1,3 +1,22 @@
+|Biểu cảm thêm|Extra expressions|
+|---|---|
+|Đầu|Head|
+|---|---|
+|Mặt và biểu cảm|Face and expression|
+|---|---|
+|Phụ kiện-vạt sau thân|Accessories - rear body panel|
+|---|---|
+|Tay và áo khoác|Arms and jacket|
+|---|---|
+|Thân dưới|Lower body|
+|---|---|
+|Thân trên|Upper body|
+|---|---|
+|Tóc phía sau|Hair in the back|
+|---|---|
+|Váy và đai lưng|Skirt and belt|
+|---|---|
+
 # Hướng dẫn ghép layer & tạo chuyển động cho model PNGTuber Plus
 
 Tài liệu này hướng dẫn import, sắp xếp thứ tự lớp (Z-order), tạo quan hệ cha–con (Parent) và cài chuyển động (Wobble, Follow Mouse, Drag, Blink, Talking, Costume) cho bộ layer trong thư mục `Layer Model/`.
