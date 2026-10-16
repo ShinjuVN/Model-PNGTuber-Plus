@@ -1,21 +1,13 @@
 |Biểu cảm thêm|Extra expressions|
 |---|---|
 |Đầu|Head|
-|---|---|
 |Mặt và biểu cảm|Face and expression|
-|---|---|
 |Phụ kiện-vạt sau thân|Accessories - rear body panel|
-|---|---|
 |Tay và áo khoác|Arms and jacket|
-|---|---|
 |Thân dưới|Lower body|
-|---|---|
 |Thân trên|Upper body|
-|---|---|
 |Tóc phía sau|Hair in the back|
-|---|---|
 |Váy và đai lưng|Skirt and belt|
-|---|---|
 
 # Hướng dẫn ghép layer & tạo chuyển động cho model PNGTuber Plus
 
